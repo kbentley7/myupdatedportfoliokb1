@@ -12,6 +12,26 @@ This is a project that will contain coding concepts learn in our first week of c
                      or
                      
    * Click on the Deployed Github Link below
+
+
+# Technologies Used
+
+   * HTML 
+   * CSS
+   * Bootstrap
+  
+## Github Repo Link
+
+  
+   
+## Github Deployed Link
+
+   
+
+## Author
+
+Kenneth E. Bentley, Sr.
+
 "kenmo8466@gmail.com"
   portfolio.
   Updated portfolio photo
