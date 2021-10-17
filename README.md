@@ -23,10 +23,7 @@ This is a project that will contain coding concepts learn in our first week of c
 ## Github Repo Link
 
   https://github.com/kbentley7/myupdatedportfoliokb1
-   
-
-
-   
+  
 
 ## Author
 
