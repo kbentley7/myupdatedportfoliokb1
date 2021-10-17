@@ -12,11 +12,7 @@ This is a project that will contain coding concepts learn in our first week of c
    * Clone the Repo to your local machine
    
    * Open the HTML file with your default browser
-   
-                     or
-                     
-   * Click on the Deployed Github Link below
-
+  
 
 # Technologies Used
 
