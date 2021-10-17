@@ -1,17 +1,17 @@
 h1 {
-  background-color: #4aaaa5;
+  background-color:green;
   color: #ffffff;
-  border-color: #cccccc;
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  border-color:greenyellow;
+  font-family:cursive;
   font-size: 30px;
   height: 80px;
 }
 
 h2 {
-  color: #4aaaa5;
+  color:green;
   background-color: #ffffff;
-  border-color: #cccccc;
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  border-color:greenyellow;
+  font-family:cursive;
 }
 
 p {
@@ -40,7 +40,7 @@ footer {
 }
 
 body {
-  border-color: #dddddd;
+  border-color:grey;
   background-image: url("../images/criss-cross.png");
   background-repeat: round;
   margin: -5px;
@@ -51,7 +51,7 @@ ul {
   margin-top: -8px;
   padding: 0;
   overflow: hidden;
-  background-color: #ffffff;
+  background-color: grey#ffffff;
 }
 
 li h1 {
@@ -139,7 +139,7 @@ header {
 }
 
 #Name {
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  font-family:cursive ;
   color: #777777;
       
 }
@@ -151,7 +151,7 @@ header {
   color: black;
 }
 #Email {
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  font-family:cursive;
   color: #777777;
 }
 
@@ -163,7 +163,7 @@ header {
 }
 
 #Message {
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  font-family:cursive;
   color: #777777;
 }
 
@@ -195,7 +195,7 @@ header {
 
 #button {
       
-  background-color: #4aaaa5; 
+  background-color:green; 
   color: white;
   border: #cccccc;
   border-style: solid;
