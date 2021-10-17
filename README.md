@@ -3,6 +3,10 @@ This is a project that will contain coding concepts learn in our first week of c
 
 [Link to Portfolio](https://kbentley7.github.io/myupdatedportfoliokb1/)
 
+## Github Repo Link
+
+  https://github.com/kbentley7/myupdatedportfoliokb1
+
 ## Installation Instructions
 
    * Clone the Repo to your local machine
@@ -19,10 +23,6 @@ This is a project that will contain coding concepts learn in our first week of c
    * HTML 
    * CSS
    * Bootstrap
-  
-## Github Repo Link
-
-  https://github.com/kbentley7/myupdatedportfoliokb1
   
 
 ## Author
