@@ -3,6 +3,15 @@ This is a project that will contain coding concepts learn in our first week of c
 
 [Link to Portfolio](https://kbentley7.github.io/myupdatedportfoliokb1/)
 
+## Installation Instructions
+
+   * Clone the Repo to your local machine
+   
+   * Open the HTML file with your default browser
+   
+                     or
+                     
+   * Click on the Deployed Github Link below
 "kenmo8466@gmail.com"
   portfolio.
   Updated portfolio photo
