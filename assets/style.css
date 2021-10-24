@@ -1,10 +1,10 @@
 
 body {
-  color: #2F4858;
+  color: whitesmoke;
 }
 
 html {
-  background-color: #77dcee;  
+  background-color: green;  
 }
 
 nav {
@@ -18,7 +18,7 @@ nav .brand-logo,
 #dividerL, 
 #dividerR,
 .nav-wrapper {
-  color:#2F4858;
+  color:black;
 }
 
 a {
@@ -38,14 +38,14 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 3px;
   line-height: 0;
   height: auto;
-  color: rgba(255, 255, 255, 0.9);
+  color: red;
 }
   
 .parallax-container .section {
-    width: 100%;
+    width: 0%;
   }
 
   @media only screen and (min-width : 915px) {
@@ -54,7 +54,7 @@ p {
     }
   }
 
-@media only screen and (max-width : 992px) {
+@media only screen and (max-width : 900px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
@@ -91,7 +91,7 @@ footer.page-footer {
   display: inline;
   padding-right: 0.75rem;
   margin-left:0.25rem;
-  color:#2F4858;
+  color:red;
 }
 
 /* Inactive/Active Default input field color */
@@ -125,7 +125,7 @@ footer.page-footer {
 .input-field textarea.invalid:focus+label,
 .input-field textarea.invalid~.helper-text::after,
 .input-field textarea.invalid:focus~.helper-text::after {
-    color: #2F4858;
+    color: red;
 }
 
 /* Active/Inactive Valid input field color */
